@@ -1,2 +1,2 @@
 # lm404
-ee mind.
+project for ee mind only, just thinking and write down that's all.
